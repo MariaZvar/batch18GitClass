@@ -4,5 +4,6 @@ public class Git1 {
         //first change after git init
         //Third change
         //git change in branch num 1
+        System.out.println("Git class 2 branch");
     }
 }
